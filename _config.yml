@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: Personal Knowledge Database
+  name: Medical Knowledge Database
 copyright: 
   year: 2022
   msg: Bogomil Iliev # This is a mandatory attribute for copyright to be displayed
