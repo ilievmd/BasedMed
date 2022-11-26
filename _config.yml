@@ -28,7 +28,7 @@ url: "https://basedmed.netlify.app/" # the base hostname & protocol for your sit
 # your social media links etc
 #######################################################################
 
-heading: BasedMed
+heading: BasedMed Database
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
@@ -44,7 +44,7 @@ tagline: # subheading won't work without a tagline,
          # Although you can have the tagline without 
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
-  enabled: true
+  enabled: false
   name: Personal Knowledge Database
 copyright: 
   year: 2022
