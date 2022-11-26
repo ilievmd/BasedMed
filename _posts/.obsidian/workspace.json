@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-27-11-anaemiainchildhood.md",
+                "file": "2022-11-27-anaemiainchildhood.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-27-11-anaemiainchildhood.md",
+                "file": "2022-11-27-anaemiainchildhood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-27-11-anaemiainchildhood.md",
+                "file": "2022-11-27-anaemiainchildhood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-27-11-anaemiainchildhood.md"
+                "file": "2022-11-27-anaemiainchildhood.md"
               }
             }
           }
@@ -140,6 +140,6 @@
   "lastOpenFiles": [
     "2020-05-01-intro.md",
     "2020-04-01-lorem.md",
-    "2022-27-11-anaemiainchildhood.md"
+    "2022-11-27-anaemiainchildhood.md"
   ]
 }
