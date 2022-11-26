@@ -28,7 +28,7 @@ url: "https://basedmed.netlify.app/" # the base hostname & protocol for your sit
 # your social media links etc
 #######################################################################
 
-heading: BasedMed Database
+heading: BasedMed
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
