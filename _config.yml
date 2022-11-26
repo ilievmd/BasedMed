@@ -44,11 +44,11 @@ tagline: # subheading won't work without a tagline,
          # Although you can have the tagline without 
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
-  enabled: false
+  enabled: true
   name: Personal Knowledge Database
 copyright: 
   year: 2022
-  msg: BasedMed - Bogomil Iliev # This is a mandatory attribute for copyright to be displayed
+  msg: Bogomil Iliev # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: false # setting it to false will remove the header image and bio
