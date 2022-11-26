@@ -34,7 +34,7 @@ subheading: # subheading won't work without a tagline,
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
-  enabled: true
+  enabled: false
   name: Medicine Knowledge Database
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
@@ -47,8 +47,8 @@ tagline: # subheading won't work without a tagline,
   enabled: true
   name: Personal Project
 copyright: 
-  year: 2020
-  msg: Bogomil Iliev # This is a mandatory attribute for copyright to be displayed
+  year: 2022
+  msg: BasedMed - Bogomil Iliev # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: true # setting it to false will remove the header image and bio
